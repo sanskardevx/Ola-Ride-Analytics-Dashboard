@@ -48,7 +48,7 @@ customer experience and operational efficiency across cities.
 
 ## 🗄️ SQL Analysis
 
-10 business queries solved using **MySQL Views:**
+10 business queries solved using **MySQL:**
 
 | # | Question |
 |---|---------|
