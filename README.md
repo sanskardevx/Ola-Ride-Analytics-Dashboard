@@ -69,9 +69,10 @@ customer experience and operational efficiency across cities.
 
 - **Cash** is the most preferred payment method
 - **Prime Sedan** has the highest total booking value at ₹8.30M
-- **Driver not moving** is the top reason for customer cancellations
-- **Personal & Car issues** is the top reason for driver cancellations
-- Average ratings remain consistently around **4.0** across all vehicle types
+- **Auto** has significantly lower avg ride distance **(10 km)** vs other vehicles **(~25 km)**
+- **Driver not moving towards pickup** is the most common reason for customer cancellations
+- **Personal & Car related issues** is the most common reason for driver cancellations
+- Average **Driver & Customer Ratings** consistently at **4.00** across all vehicle types
 
 ---
 
