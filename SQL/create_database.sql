@@ -1,0 +1,2 @@
+CREATE DATABASE Ola;
+USE Ola;
