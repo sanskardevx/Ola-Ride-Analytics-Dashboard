@@ -8,7 +8,7 @@ analyzing over **1 lakh rows** of ride data spanning 1 month.
 ## 📌 Project Overview
 
 This project analyzes OLA cab booking data to uncover insights around
-ride volumes, revenue, cancellations, and customer/driver ratings.
+ride volumes, revenue, cancellations, and customer/driver ratings.  
 The goal is to help OLA make data-driven decisions to improve
 customer experience and operational efficiency across cities.
 
