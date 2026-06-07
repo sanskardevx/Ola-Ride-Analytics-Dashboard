@@ -77,3 +77,24 @@ customer experience and operational efficiency across cities.
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 📸 Dashboard Preview
+
+### Business Overview
+![Business Overview](Assets/01_Business_Overview.png)
+
+### Vehicle Type Analysis
+![Vehicle Type](Assets/02_Vehicle_Type_Analysis.png)
+
+### Revenue Analysis
+![Revenue](Assets/03_Revenue_Analysis.png)
+
+### Cancellation Analysis
+![Cancellation](Assets/04_Cancellation_Analysis.png)
+
+### Ratings Analysis
+![Ratings](Assets/05_Ratings_Analysis.png)
+
+---
